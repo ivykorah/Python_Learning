@@ -73,7 +73,7 @@ plt.title('Top 10 Countries by Job Postings')
 plt.show()
 ```
 
-![Bar Chart of Job Postings Location](3_Project\images\country_chart.png)
+![Bar Chart of Job Postings Location](3_Project/images/country_chart.png)
 
 ```python
 df_US = df[(df['job_country'] == 'United States')].copy()  #filter out the data for only the US market. This would be my final dataset
