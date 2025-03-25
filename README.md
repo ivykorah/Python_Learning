@@ -1,4 +1,4 @@
-# Overview ![Overview](3_Project\images\overview.png)
+# Overview ![Overview](3_Project/images/overview.png)
 
 Welcome to my analysis of the data job market, focusing on data analyst roles in the United States. This project was born out of a desire to navigate and understand the job market more effectively using Python. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
@@ -25,8 +25,8 @@ For a deep dive into the dataset, I harnessed the power of several key tools suc
     - **Pandas Library:** This was used to analyze the data. 
     - **Matplotlib Library:** This was used to visualize the data.
     - **Seaborn Library:** Helped me create more advanced visuals. 
-- **Visual Studio Code ![VS code image](3_Project\images\visual-studio-code.png) :** My go-to IDE for writing and executing Python scripts.
-- **Git & GitHub ![Git image](3_Project\images\git.png) :** Essential for version control, sharing my Python code and analysis, and ensuring collaboration and project tracking.
+- **Visual Studio Code ![VS code image](3_Project/images/visual-studio-code.png) :** My go-to IDE for writing and executing Python scripts.
+- **Git & GitHub ![Git image](3_Project/images/git.png) :** Essential for version control, sharing my Python code and analysis, and ensuring collaboration and project tracking.
 
 # Data Preparation and Cleanup 🛁
 
@@ -165,7 +165,7 @@ fig.tight_layout(h_pad= 0.5)
 
 ### Results
 
-![Likelihood of Skills Requested for Top Job Titles in the United States](3_Project\images\skill_likelihood.png)
+![Likelihood of Skills Requested for Top Job Titles in the United States](3_Project/images/skill_likelihood.png)
   
 *Bar chart visualizing the skills required for the top 3 data roles in the USA*
 
