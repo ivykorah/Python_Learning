@@ -21,7 +21,7 @@ Using this project, I seek to answer the following questions:
 
 For a deep dive into the dataset, I harnessed the power of several key tools such as:
 
-- **Python ![python image](3_Project\images\python.png) :** This tool was the backbone of my analysis, allowing me to analyze the data and find critical insights. The following Python libraries were utilised:
+- **Python ![python image](3_Project/images/python.png) :** This tool was the backbone of my analysis, allowing me to analyze the data and find critical insights. The following Python libraries were utilised:
     - **Pandas Library:** This was used to analyze the data. 
     - **Matplotlib Library:** This was used to visualize the data.
     - **Seaborn Library:** Helped me create more advanced visuals. 
