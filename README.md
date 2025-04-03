@@ -413,9 +413,9 @@ plt.show()
 
 This project deepened my understanding of the data analyst job market and enhanced my technical skills in Python for Data Analysis, especially in data manipulation and visualization. Here are a few specific takeaways for me:
 
-- **Advanced Python Usage**: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
-- **Data Cleaning Importance**: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted as this ensures the accuracy of insights derived from the data.
-- **Strategic Skill Analysis**: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry. It also further butressed the importance of data driven decision making.
+- **Advanced Python Usage**: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently. I learnt a few new methods and how to effectively use documentations
+- **Importance of Data Cleaning**: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted as this ensures the accuracy of insights derived from the data. I also learnt the importance of leaving the original dataset unaltered.
+- **Strategic Skill Analysis**: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry. It also further butressed the importance of data driven decision making. As a data professional, I know know which of my skills to improve on more depending on what career path I am choosing.
 
 
 # Insights
@@ -432,8 +432,8 @@ This project provided several general insights into the data job market for anal
 This project was not without its challenges, but it provided good learning opportunities:
 
 - **Data Inconsistencies**: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
-- **Complex Data Visualization**: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
-- **Balancing Breadth and Depth**: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
+- **Complex Data Visualization**: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly. Thanks to Libraries such as Seaborn, this has become very easy to do.
+- **Balancing Breadth and Depth**: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details. Scoping out a project from the onset is key!
 
 
 # Conclusion
